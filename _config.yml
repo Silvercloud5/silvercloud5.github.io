@@ -1,3 +1,7 @@
 remote_theme: dieghernan/chulapa
 title: My Awesome Site
 description: Welcome to my portfolio
+header_pages:
+  - about.md
+  - contact.md
+  - projects.md
